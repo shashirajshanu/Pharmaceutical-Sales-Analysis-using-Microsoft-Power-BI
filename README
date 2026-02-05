@@ -1,0 +1,40 @@
+# Power BI Pharma Sales Analysis Dashboard
+
+## 🚀 Overview
+This project is a complete **Power BI dashboard** for analyzing pharmaceutical drug sales. It transforms raw sales data into interactive visual insights to help stakeholders understand trends, performance metrics, and patterns across products and time.
+
+## 📂 Dataset
+The dataset used includes pharma sales data with attributes such as:
+- Product names
+- Sales quantity and revenue
+- Date and time of sale
+- Categories (e.g., ATC classification)
+
+The dataset is cleaned, transformed, and modeled for visualization.
+
+## 🛠 Tools Used
+- Microsoft Power BI Desktop
+- DAX (Data Analysis Expressions)
+- Power Query Editor
+
+## 📊 Key Visualizations
+The dashboard includes:
+- Heatmaps showing sales intensity
+- Matrix views by time and category
+- Tree maps highlighting top products
+- Scorecards for KPIs (total sales, growth %)
+- Filters and slicers for dynamic exploration
+
+## 📈 Insights Provided
+- Sales performance trends over time
+- Best and worst performing drugs
+- Category-wise contribution to total sales
+- Peak hours and seasonal effects
+
+## 📌 Usage
+1. Open the `.pbix` file in Power BI Desktop
+2. Load your dataset (CSV or Excel)
+3. Interact with slicers and visuals to explore insights
+
+## 📌 License
+See the LICENSE file for details.
